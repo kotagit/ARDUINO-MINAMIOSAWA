@@ -1,0 +1,12 @@
+# Build output
+build/
+*.elf
+*.bin
+*.hex
+*.map
+
+# IDE
+.vscode/
+*.swp
+*.bak
+*~
